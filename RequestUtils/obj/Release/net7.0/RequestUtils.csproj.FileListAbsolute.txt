@@ -1,0 +1,12 @@
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/bin/Release/net7.0/RequestUtils.deps.json
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/bin/Release/net7.0/RequestUtils.dll
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/bin/Release/net7.0/RequestUtils.pdb
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/RequestUtils.csproj.AssemblyReference.cache
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/RequestUtils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/RequestUtils.AssemblyInfoInputs.cache
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/RequestUtils.AssemblyInfo.cs
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/RequestUtils.csproj.CoreCompileInputs.cache
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/RequestUtils.dll
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/refint/RequestUtils.dll
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/RequestUtils.pdb
+/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/Release/net7.0/ref/RequestUtils.dll

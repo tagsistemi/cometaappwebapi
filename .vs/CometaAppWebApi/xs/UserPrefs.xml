@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{389EF0BF-1B3A-40B2-B690-A73687AC3A64}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../ResponseUtils/JWTGen.cs" line="18" column="22" endLine="18" endColumn="36" offsetX="-1" offsetY="-1" expression="IConfiguration" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CometaAppWebApi/Controllers/UsersController.cs">
+    <Files>
+      <File FileName="CometaAppWebApi/Controllers/UsersController.cs" Line="38" Column="35" />
+      <File FileName="CometaAppWebApi/Controllers/AuthController.cs" />
+      <File FileName="RequestUtils/Class1.cs" />
+      <File FileName="RequestUtils/LoginBody.cs" />
+      <File FileName="ResponseUtils/RESTResponse.cs" />
+      <File FileName="CometaAppWebApi/appsettings.json" />
+      <File FileName="ResponseUtils/JWTGen.cs" />
+      <File FileName="CometaAppWebApi/Program.cs" />
+      <File FileName="CometaAppWebApi/Properties/launchSettings.json" />
+      <File FileName="ResponseUtils/IJWTGen.cs" />
+      <File FileName="CometaAppWebApi/Controllers/WeatherForecastController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CometaAppWebApi" expanded="True">
+            <Node name="CometaAppWebApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="RequestUtils" expanded="True" />
+            <Node name="ResponseUtils" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CometaAppWebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

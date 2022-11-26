@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0pVSEPIE0pEgk7rT9psfsOvgizD3z83kOpc37GUIZGg=",
+  "Source": "CometaAppWebApi",
+  "BasePath": "_content/CometaAppWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

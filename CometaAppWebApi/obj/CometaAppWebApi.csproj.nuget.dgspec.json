@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fabiochines/Projects/CometaAppWebApi/CometaAppWebApi/CometaAppWebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/fabiochines/Projects/CometaAppWebApi/CometaAppWebApi/CometaAppWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fabiochines/Projects/CometaAppWebApi/CometaAppWebApi/CometaAppWebApi.csproj",
+        "projectName": "CometaAppWebApi",
+        "projectPath": "/Users/fabiochines/Projects/CometaAppWebApi/CometaAppWebApi/CometaAppWebApi.csproj",
+        "packagesPath": "/Users/fabiochines/.nuget/packages/",
+        "outputPath": "/Users/fabiochines/Projects/CometaAppWebApi/CometaAppWebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fabiochines/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/RequestUtils.csproj": {
+                "projectPath": "/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/RequestUtils.csproj"
+              },
+              "/Users/fabiochines/Projects/CometaAppWebApi/ResponseUtils/ResponseUtils.csproj": {
+                "projectPath": "/Users/fabiochines/Projects/CometaAppWebApi/ResponseUtils/ResponseUtils.csproj"
+              },
+              "/Users/fabiochines/Projects/CometaAppWebApi/UsersClassLibrary/UsersClassLibrary.csproj": {
+                "projectPath": "/Users/fabiochines/Projects/CometaAppWebApi/UsersClassLibrary/UsersClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/RequestUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/RequestUtils.csproj",
+        "projectName": "RequestUtils",
+        "projectPath": "/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/RequestUtils.csproj",
+        "packagesPath": "/Users/fabiochines/.nuget/packages/",
+        "outputPath": "/Users/fabiochines/Projects/CometaAppWebApi/RequestUtils/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fabiochines/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fabiochines/Projects/CometaAppWebApi/ResponseUtils/ResponseUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fabiochines/Projects/CometaAppWebApi/ResponseUtils/ResponseUtils.csproj",
+        "projectName": "ResponseUtils",
+        "projectPath": "/Users/fabiochines/Projects/CometaAppWebApi/ResponseUtils/ResponseUtils.csproj",
+        "packagesPath": "/Users/fabiochines/.nuget/packages/",
+        "outputPath": "/Users/fabiochines/Projects/CometaAppWebApi/ResponseUtils/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fabiochines/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/fabiochines/Projects/CometaAppWebApi/UsersClassLibrary/UsersClassLibrary.csproj": {
+                "projectPath": "/Users/fabiochines/Projects/CometaAppWebApi/UsersClassLibrary/UsersClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fabiochines/Projects/CometaAppWebApi/UsersClassLibrary/UsersClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fabiochines/Projects/CometaAppWebApi/UsersClassLibrary/UsersClassLibrary.csproj",
+        "projectName": "UsersClassLibrary",
+        "projectPath": "/Users/fabiochines/Projects/CometaAppWebApi/UsersClassLibrary/UsersClassLibrary.csproj",
+        "packagesPath": "/Users/fabiochines/.nuget/packages/",
+        "outputPath": "/Users/fabiochines/Projects/CometaAppWebApi/UsersClassLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fabiochines/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
